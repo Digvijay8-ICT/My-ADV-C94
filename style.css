@@ -1,0 +1,9 @@
+html,
+body {
+	height: 100%;
+	margin: 0;
+}
+
+body {
+	background-image: linear-gradient(to right top, rgba(255, 0, 0, 0.562), green, blue, orange, black);
+}
